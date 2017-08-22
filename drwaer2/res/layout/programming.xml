@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/prog" >
+
+    <Button
+        android:id="@+id/progcord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@android:color/transparent"
+        android:text="COORDINATOR" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="&quot;Battle for computer geeks.  Platform to excel your programming skills and to conquer the coding era!&quot;"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/progdetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="26dp"
+        android:layout_toLeftOf="@+id/progcord"
+        android:background="@android:color/transparent"
+        android:text="DETAILS" />
+
+    <Button
+        android:id="@+id/fantacregis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/progdetails"
+        android:layout_alignBottom="@+id/progdetails"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="14dp"
+        android:background="@android:color/transparent"
+        android:text="REGISTRATION" />
+
+</RelativeLayout>

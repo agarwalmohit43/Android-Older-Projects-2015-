@@ -1,0 +1,99 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99CC00" >
+<ScrollView android:id="@+id/sv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+           android:orientation="vertical">
+    
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="#FFCC00"
+        android:text="LAUNCH MAP" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="22dp"
+        android:background="#FFCC00"
+        android:text="LAUNCH MARKET" />
+
+      </RelativeLayout>
+</ScrollView>
+
+<ToggleButton
+    android:id="@+id/toggleButton1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/checkBox1"
+    android:layout_alignBottom="@+id/checkBox1"
+    android:layout_marginLeft="46dp"
+    android:layout_toRightOf="@+id/checkBox1"
+    android:textOn="BACK TO ORIGINAL"
+    android:textOff="BLACK"
+    android:text="ToggleButton" />
+
+<CheckBox
+    android:id="@+id/checkBox1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_marginBottom="16dp"
+    android:layout_marginLeft="32dp"
+    android:checked="false"
+    android:text="CheckBox" />
+
+<Button
+    android:id="@+id/button3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/sv"
+    android:layout_marginTop="15dp"
+    android:background="#FFCC00"
+    android:text="SEND EMAIL" />
+
+<Button
+    android:id="@+id/videoss"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/toggleButton1"
+    android:layout_centerHorizontal="true"
+    android:text="Video" />
+
+<Button
+    android:id="@+id/button4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/videoss"
+    android:layout_alignParentLeft="true"
+    android:layout_marginBottom="14dp"
+    android:background="#FFCC00"
+    android:text="SEND IMAGE" />
+
+<Button
+    android:id="@+id/button5"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_above="@+id/button4"
+    android:layout_alignParentLeft="true"
+    android:layout_marginBottom="14dp"
+    android:background="#FFCC00"
+    android:text="SEND IMAGES" />
+
+</RelativeLayout>

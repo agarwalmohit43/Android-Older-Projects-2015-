@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">customdialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rules">"Forbidden moves:
+
+The players must kick-off with a backward pass at the beginning of each half and after every goal is scored.
+The players are not allowed to shoot the ball directly onto the crossbar from a corner kick in order to get a chance for a header when the ball rebounds or score directly from corner.
+It is not allowed to score a goal from one's own half of the field.
+It is forbidden to make a throw-in directly into the opponent's penalty area. Should a player throw the ball directly into the opponent's penalty area he shall be warned. Should he persist, he shall be disqualified from the tournament.
+Any goals resulting from a throw-in into the opponent's penalty area will not be counted.
+If a player changes his tactics, formation or line-up he has to kick the ball out of bounds after the changes so that his opponent is able to react.
+If a player is found to be intentionally delaying the game time by passing the ball around and clearly not attempting to score, he may be given a warning or lose by default at the referee's discretion.
+Prior to making any changes to one's team, the player that wants to make a change must be in possession of the ball and be in his own half before he pauses the game. In the last few minutes of the game it is not allowed to make any changes to one's team with the sole intent of delaying the match. Should this be the case, the player delaying the match will be warned by a referee and, should he persist after the warning, be attributed with a default loss of the match.
+In any case, a goal scored due to the use of a "forbidden move" shall not be counted.
+Should a player persist in playing with forbidden moves, he may be disqualified from the tournament.
+All complaints shall be dealt with after the match has been completed.
+Disconnection: Any connection loss between opponents due to system, network, PC, and/or power problems/issues. 
+In case a disconnection occurs:
+
+A referee will confirm the exact score to that point (even if the ball is about to cross the goal line, the goal shall not count), and restart the match. If the match has been played for t minutes then the new match would be played for (90-t) minutes.
+Any players sent off the field (red card) cannot be in the team line-up while restarting the match again.
+If the disconnection occurs after a corner kick was awarded to a player, the match will resume with a corner kick for that same player."</string>
+
+</resources>

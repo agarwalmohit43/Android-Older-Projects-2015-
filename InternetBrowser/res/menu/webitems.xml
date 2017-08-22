@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menugoback"
+        android:alphabeticShortcut="a"
+        android:numericShortcut="1"
+        android:title="GO BACK"/>
+    <item
+        android:id="@+id/menuforward"
+        android:title="Go Forward"/>
+    <item
+        android:id="@+id/menurefersh"
+        android:title="Referesh"/>
+    <item
+        android:id="@+id/menuhistory"
+        android:title="Clear History"/>
+
+</menu>

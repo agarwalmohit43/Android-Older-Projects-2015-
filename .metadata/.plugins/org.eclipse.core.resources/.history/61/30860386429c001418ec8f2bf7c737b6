@@ -1,0 +1,26 @@
+import java.sql.*;
+public class tt {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		try{
+			Connection mycon=DriverManager.getConnection("jdbc:mysql://localhost:3306/login","root","loverboy43");
+			Statement s=mycon.createStatement();
+			ResultSet rs=s.executeQuery("select * from user");
+			
+			while(rs.next()){
+				String a=rs.getString("username");
+				System.out.println(a);
+			}
+			
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+		
+	}
+
+}

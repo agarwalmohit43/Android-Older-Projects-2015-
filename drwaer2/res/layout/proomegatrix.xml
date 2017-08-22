@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/omegaback" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="&quot;Involve, Solve &amp; Evolve&quot;"
+        android:textColor="#f8e618"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/omegacord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="28dp"
+        android:layout_marginLeft="26dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="@android:color/holo_orange_dark"
+        android:text="COORDINATOR"
+        android:textColor="#f8e618" />
+
+    <Button
+        android:id="@+id/omegadetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:background="@android:color/transparent"
+        android:text="DETAILS"
+        android:textColor="#f8e618" />
+
+</RelativeLayout>

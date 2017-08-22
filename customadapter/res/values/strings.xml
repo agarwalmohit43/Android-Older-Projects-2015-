@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">customadapter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="days">
+        <item><FONT COLOR="#006600">
+                <b>EVENTS</b>
+            </FONT></item>
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUEDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUEDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUEDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUEDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+    </string-array>
+    <string-array name="no">
+        <item>DAY 1</item>
+        <item>DAY 2</item>
+        <item>DAY 3</item>
+        <item>DAY 4</item>
+        <item>DAY 5</item>
+        <item>DAY 6</item>
+        <item>DAY 7</item>
+        <item>DAY 1</item>
+        <item>DAY 2</item>
+        <item>DAY 3</item>
+        <item>DAY 4</item>
+        <item>DAY 5</item>
+        <item>DAY 6</item>
+        <item>DAY 7</item>
+        <item>DAY 1</item>
+        <item>DAY 2</item>
+        <item>DAY 3</item>
+        <item>DAY 4</item>
+        <item>DAY 5</item>
+        <item>DAY 6</item>
+        <item>DAY 7</item>
+        <item>DAY 1</item>
+        <item>DAY 2</item>
+        <item>DAY 3</item>
+        <item>DAY 4</item>
+        <item>DAY 5</item>
+        <item>DAY 6</item>
+        <item>DAY 7</item>
+    </string-array>
+    <string-array name="country">
+        <item>INDIA</item>
+        <item>BRAZIL</item>
+        <item>AMERICA</item>
+        <item>DONT KNOW</item>
+    </string-array>
+    <string-array name="act">
+        <item><FONT COLOR="fb0404">
+                <b>EVENTS</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>MOHIT</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>KUMAR</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>AGARWAL</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>BPPIMT</b>
+            </FONT></item>
+    </string-array>
+
+</resources>

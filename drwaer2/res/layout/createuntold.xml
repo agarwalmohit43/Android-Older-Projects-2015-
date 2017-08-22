@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/untoldback" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="&quot;THERE IS NO GREATER AGONY THAN BEARING AN UNTOLD STORY INSIDE YOU.&quot;"
+        android:textColor="#0a0a0a"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/untolddetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        android:text="DETAILS"
+        android:textColor="#030303" />
+
+    <Button
+        android:id="@+id/untoldcord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="89dp"
+        android:background="@android:color/transparent"
+        android:text="COORDINATOR"
+        android:textColor="#0a0a0a" />
+
+</RelativeLayout>

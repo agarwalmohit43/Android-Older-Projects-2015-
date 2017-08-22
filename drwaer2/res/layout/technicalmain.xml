@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TabHost
+        android:id="@+id/tabhosttechnical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <RelativeLayout
+                    android:id="@+id/tab1tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/techoiv"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/technomaniamain" />
+
+                    <Button
+                        android:id="@+id/techocord"
+                        style="@drawable/dr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="17dp"
+                        android:background="@android:color/transparent"
+                        android:text="COORDINATOR"
+                        android:textColor="#090808"
+                        android:textSize="25sp" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:text="&quot;Creativity often starts where language ends.&quot;"
+                        android:textColor="#090808"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/techodetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@+id/textView1"
+                        android:layout_marginRight="14dp"
+                        android:layout_marginTop="54dp"
+                        android:background="@android:color/transparent"
+                        android:text="DETAILS"
+                        android:textColor="#090808"
+                        android:textSize="20sp" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/tab2tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/ennoiv"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/together" />
+
+                    <Button
+                        android:id="@+id/ennocord"
+                        style="@drawable/dr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="16dp"
+                        android:background="@android:color/transparent"
+                        android:text="COORDINATOR" />
+
+                    <Button
+                        android:id="@+id/ennodetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginTop="97dp"
+                        android:layout_toLeftOf="@+id/ennocord"
+                        android:background="@android:color/transparent"
+                        android:text="DETAILS" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:text="&quot;Dare to explore the unexplored.&quot;"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+            </FrameLayout>
+
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>

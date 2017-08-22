@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/back" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/home4" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="260sp"
+        android:layout_height="390sp"
+        android:layout_toLeftOf="@+id/imageButton1" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton8"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/duster" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="50sp"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/imageButton10"
+        android:src="@drawable/back1" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/logo" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton9"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/chalk" />
+
+    <ImageButton
+        android:id="@+id/imageButton10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/return1" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButton7"
+        android:layout_below="@+id/imageButton1"
+        android:src="@drawable/sound" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageButton5"
+        android:src="@drawable/refresh1" />
+
+</RelativeLayout>

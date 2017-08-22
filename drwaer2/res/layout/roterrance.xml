@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/roterrance" >
+
+    <Button
+        android:id="@+id/roterrancecord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:background="@android:color/transparent"
+        android:text="COORDINATOR" />
+
+    <Spinner
+        android:id="@+id/roterrancespinner1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:popupBackground="@android:color/transparent" />
+
+    <Button
+        android:id="@+id/roterrancedetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/roterrancespinner1"
+        android:layout_marginTop="36dp"
+        android:layout_toRightOf="@+id/roterrancecord"
+        android:background="@android:color/transparent"
+        android:text="DETAILS" />
+
+</RelativeLayout>

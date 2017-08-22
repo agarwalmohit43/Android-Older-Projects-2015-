@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/rocombat" >
+
+    <Button
+        android:id="@+id/rocombatcord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        	android:background="@android:color/transparent"
+        
+        android:text="COORDINATOR" />
+
+    <Button
+        android:id="@+id/rocombatdetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="83dp"
+        android:layout_toLeftOf="@+id/rocombatcord"
+        android:background="@android:color/transparent"
+        android:text="DETAILS" />
+
+    <Button
+        android:id="@+id/rocombatarena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rocombatdetails"
+        android:layout_marginTop="38dp"
+        android:layout_toLeftOf="@+id/rocombatcord"
+        android:background="@android:color/transparent"
+        android:text="ARENA" />
+
+</RelativeLayout>

@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TECHSTORM 2.15</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Closes Navigation Drawer</string>
+    <string name="termsss">sda</string>
+
+    <string-array name="brainteaser">
+        <item>BRAIN TEASER</item>
+        <item>ARCANIA</item>
+        <item>OMEGA TRIX</item>
+        <item>FANTA C</item>
+    </string-array>
+    <string-array name="roconstru">
+        <item>Ro-Constru</item>
+        <item>Ro-Navigator</item>
+        <item>Ro-Splash</item>
+        <item>Basic Ro-vers</item>
+    </string-array>
+    <string-array name="socila">
+        <item>TECHSTORM</item>
+        <item>WEBPAGE</item>
+        <item>FACEBOOK</item>
+        <item>HELP</item>
+    </string-array>
+    <string-array name="act">
+        <item><FONT COLOR="fb0404">
+                <b>EVENTS</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>RO-VERS</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>GAMING</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>BRAIN TEASER</b>
+            </FONT></item>
+        <item><FONT COLOR="fb0404">
+                <b>SRIJONI</b>
+            </FONT></item>
+        <item>TECHNICAL</item>
+    </string-array>
+    <string-array name="rovers">
+        <item>RO-VERS</item>
+        <item>RO-CONSTRU</item>
+        <item>RO-COMBAT</item>
+        <item>RO-BLITZ</item>
+        <item>RO-NAVIGATOR</item>
+        <item>RO-TERRANCE</item>
+        <item>RO-SOCCER</item>
+        <item>RO-SPLASH</item>
+    </string-array>
+    <string-array name="creativity">
+        <item>SRIJANI</item>
+        <item>35mm Live</item>
+        <item>Passion With Reels</item>
+        <item>The Untold Story</item>
+        <item>Spotlight</item>
+        <item>Objet D\u0027Art</item>
+    </string-array>
+    <string-array name="roterrance">
+        <item>AREANA</item>
+        <item>Arena: ROUND 1</item>
+        <item>Arena: ROUND 2</item>
+    </string-array>
+    <string-array name="profie">
+        <item>Proficiency</item>
+        <item>Arcania</item>
+        <item>Omegatrix</item>
+        <item>E-nnovation</item>
+        <item>Technomania</item>
+    </string-array>
+    <string-array name="splasharena">
+        <item>ARENA</item>
+        <item>ROUND 1</item>
+        <item>FINAL</item>
+    </string-array>
+
+    <string name="mohit">"
+MOHIT KUMAR
+AGARWALMOHIT43@GMAIL.COM
+9051144448/8981871984
+ANDROID DEVELOPER
+"</string>
+    <string name="roconstru">"
+Event Description
+
+Each team will be provided with virtual money(KNOWN AS PROTONS) with which they must buy the required equipments from the store. To modify the bots other outside elements can be used(which will not be available at our store). The power source would be provided, but other adaptors and extension chords should be present with the team. A chesis, 4 clamps, 4 motors, 4 wheels, wires, a remote and 2 switches will be provided.
+The design should be implemented within 45 min using the equipments.
+Bonus points will be credited on the amount of remaining virtual money.
+The Bot will have to traverse through various difficult terrains to reach its destination within minimum time.
+
+Rules and Regulations :
+
+Team may consist of maximum 4 members.
+Every team will be provided with 1000 protons (protons=currency of the event)
+Total time limit is 20 minutes for implementing in arena \u0026 45 min for making the bot.
+Bonus point will be credited for remaining time (remaining time in sec.* 1) points.
+Extra bonus will be credited for saving virtual money as (remaining money * 2) points.
+The Maximum voltage allowable between any two points on the bot is 24 V DC.
+50 points will be credited after crossing each obstacles.
+For dragging each box to the finish line 50 points will be credited but the boxes can not go out of the arena.
+2 hand touches will be allowed. 50 points will be deducted in each case.
+1 skip of obstacles will be allowed.150 points will be deducted for that.
+1 timeout will be allowed for 5 mins. 50 points will be deducted for that.
+1 restart will be allowed. 200 points will be deducted for that.
+BANKING path can be used. By which 2 obstacles(up inclination and roller) can be avoided. But 100 points will be deducted in this case.
+
+STATUTORY WARNING :
+
+The bot which would be constructed using the materials in our event, cannot be used in any other event of Ro-Vers. Otherwise the whole team will be disqualified, not only from Ro-Constru, but from Ro-vers as a whole.
+
+Event Co-ordinators
+
+Debajit Jotder
+Phone No. - 8336012562
+Email : debajitjotder5@gmail.com
+
+Kuheli Ghosh
+Phone No. - 8013869856
+Email : kuheli25794@gmail.com
+    
+    "</string>
+    <string name="splash">"
+Event Description
+
+In this event, the bot has to complete a path [starting from one point \u0026 ending at another point] inside a metallic arena full of water, while being floated and performing basic tasks in water. The tasks may vary from just maneuvering the bot according to the path, hitting the switches \u0026 ringing the buzzers etc. The tasks will get much more challenging and interesting in further rounds. This event gives emphasis on the agility, strength and stability of the bot in water when subjected to perform different tasks in different rounds. Our event ensures that the best bot wins.
+
+
+Round 1 :
+In this preliminary round, a bot has to travel in the specified path as directed in figure above. The path is surrounded on both sides by red walls which run the entire path.
+The red wall has a height of 4 inches above the surface of water and is submerged to another 4 inches below the surface of water.
+A bot will have to start from point A, manoeuvre through the whole path , perform few tasks at some different locations of the path and reach the ending point B of the path.
+A bot have to touch the cylinder and pull out the balls and take them to the ending point. Each ball carries 50 points.
+The time given to finish the whole task for Round 1 is 3 minutes.
+The time needed to finish the whole task will be subtracted from the net score amounting at the end of the task. Each second equals 2 point.
+
+General Rule :
+
+Each group should consists of maximum number of 4 members.
+One bot cannot be shared by two different teams.
+No one participant can't be part of two different teams.
+
+Event Co-ordinators
+
+Md.Farhan Nasim
+Phone No. - 8961506919
+Email : nasimfarhan998@gmail.com
+
+Indira Maji
+Phone No. - 9800169084
+Email : indiramaji1993@gmail.com
+
+"</string>
+    <string name="rosoccer">"
+Event Description
+
+Explore the thrill of soccer, the challenge of team co-ordination, your skills of control over the bot \u0026 your limit to resist the pressure and deliver at the same time. In this event, teams have to try to score goals against their opponents\u0026 save their goal at the same time. Extend your imagination in gameplay and tactics. If you think you are up to the mark Ro-Soccer is the platform for robotics enthusiasts like you.
+
+Objective
+
+EACH TEAM WOULD HAVE TWO MANUAL BOTS, ONE AS DEFENDER AND THE OTHER AS STRIKER. EACH TEAM WILL COMPETE WITH ANOTHER TEAM ALSO HAVING TWO BOTS. THE FIRST ROUND WOULD BE THE PRELIMS \u0026 AT THE END OF THE PRELIMS, DEPENDING UPON THE SCORE, TEAMS WILL QUALIFY TO THE NEXT ROUND.
+Scoring Rule :
+
+THE TEAM WHICH SCORES THE FIRST GOAL WOULD BE AWARDED 100 POINTS.
+50 POINTS WOULD BE AWARDED FOR ALL FURTHER GOALS.
+EACH PENALTY WOULD BE AWARDED 50 POINTS.
+EACH HAND TOUCH WOULD COST THE TEAM 20 POINTS. ANY KIND OF TECHNICAL FAULT MAY ALSO COST THE TEAM 20 POINTS TO THE TEAM.
+
+General Rule :
+Each team has to have two manual bots, one as striker \u0026 the other one as defender.
+Maximum 5 members are allowed in 1 team
+In the prelims there will be two teams taking part in a match of 6mins(each half 3mins). The highest scorer team would be promoted to the next round.
+No fans or blowing devices are allowed.
+The ball can't be trapped in any form.
+Deliberate physical contact of the bots will not be allowed. The referee will be judging such cases. In case the connection wire is targeted, it may result in reduction of 1 goal and 100 points each time, and if the wires are entangled then gameplay would be stopped to untangle them.
+The final round will be conducted in two halves each of 4 mins.
+The weight of the bots must be within 4 kg, otherwise the team will be disqualified.
+
+
+Event Co-ordinators
+Arijit Kar
+Phone No. - 8013346070
+Email : arijitkar93@gmail.com
+
+Ayan Dutta
+Phone No. - 9836928180
+"</string>
+    <string name="roterrance">"
+BOT SPECIFICATION:
+• The dimensions of the bot can be up to a maximum of 25 X 25 X 25 cms (lxbxh) excluding 
+the control device dimensions.
+• A bot may weigh up to 2 Kg. but not more than that.
+• Maximum voltage between any two points on the bot must not exceed 24 V dc.
+• The Chassis may be made of any material but the weight of the bot must not exceed 2 Kgs.
+• The size of the bot may increase after the event commences.
+• Wheels can be of metal or any material but it must have a rubber tire around it.
+• Use of IC Engines is prohibited.
+• In case of wired bot sufficient amount of wire must be brought by the participants.
+• 240 v AC will be supplied as a power source for the bots.
+
+GENERAL RULES OF TEAMS:
+• Each team may consist a maximum of five members.
+• No participant can be present in two teams.
+• Each member of the team must bring their own college ID cards.
+• Teams will require to register themselves in the registration counter before they can 
+participate in the event.
+
+GAME PLAY RULES:
+• A team will be given a maximum time of six minutes to complete the whole task. 1min for 
+trial and 5min to complete task. Extra seconds taken by the bot will be deducted from their 
+score.
+• If the bot falls of the arena or is unable to cross any obstacle the team may use a hand touch 
+and place the bot in its previous position. A total of four such hand touches will be allowed.
+• If any team has to use a fifth hand touch it will be disqualified.
+• If the bot is unable to cross any obstacle and the team wishes to manually cross the 
+obstacle, then it will result in a penalty and the team will lose one hand touch.
+
+Event Coordinator:
+DHRITI MAJUMDAR
+8902468237
+"</string>
+    <string name="roblitz">"
+Bot Specification:
+  The bot should fit in a box of 25cm*25cm*25cm / 10” * 10” * 10” (l*b*h).
+  External remote control will not be considered in the size constraint.
+  The participants will be provided with a 220V, 50Hz single phase power 
+supply. 
+  The robots can be wired or wireless. In case of wired bot sufficient amount 
+of wire must be brought by the participants.  If the machine is wired then the 
+wire should remain slack under all circumstances during the competition. All 
+the wires coming out of the machine should be stacked as a single unit. 
+
+Improper wiring may lead to direct disqualification even before the event.
+  The bot specification must be maintained strictly during the entire event, 
+failing to which will lead to immediate disqualification.
+  A bot may weigh up to 4 Kg but not more than that.
+ Bots cannot be constructed using ready made Lego kits or any ready made 
+mechanism. Violating this clause will lead to the disqualification of the 
+machine.
+
+  Use of IC (Internal Combustion) Engines are prohibited.
+  If the judges consider that a robot runs high risk of damaging or ruining the 
+arena, they will not permit it to run.
+  No fans  weaponries can be used in the game. But the bots can overtake 
+the other by legal means.
+
+General Rules:
+  The maximum number of members in a team must not exceed 4. 
+Participants can belong to different colleges.
+  But only one person can control the bot at any instant of time.
+  An individual cannot be a member of more than one team for the event.
+  Each member of the team must bring their own college ID cards.
+
+Game Rules:
+1. For any kind of technical failure in bot or any other kits, the each group will 
+be given extra 5 minutes. After 5 minutes, points will be deducted or the 
+bot may be subjected to disqualification. 
+2. Two bots are suggested to race on the same terrain at the same time. The 
+bot which touches the end line first will be the winner. (The racing 
+conditions will be announced on the day of the event).
+3. The point distribution  deduction method will be notified on the time of the 
+event.
+4. The arena can be modified further.
+5. If the robot falls of the arena or is unable to cross any obstacle the team 
+may use a hand touch and place the bot in its previous position. Only two 
+such hand touches will be allowed.
+6. If any team uses a third hand touch, it will be instantly disqualified in the 
+preliminary round  will be rewarded negative bonus points in case of final.
+7. Two time-outs (2 min max) will be provided for each team and can be used 
+for adjusting robot's circuitry/minor adjustments.
+8. Conveyor belt is allowed.
+
+"</string>
+    <string name="ronavigator">"
+Event Specifications:
+1.Maximum allowable bot length would be 25cm X 25cm.
+2. Width of the central line would be 2cm.
+3. Central line and the background will have a sharp contrast. Central line will 
+be darker in colour. 
+4. The checkpoints are 2cm wide white gaps along the central line. 
+5. There are 45 degree and 90 degree turnings on the track.s 
+
+Arena Specifications
+The arena is about 7ft X 6ft and may be subject to certain simplifications as 
+compared to the one illustrated in this document, however nothing to affect the 
+overall design. No elements other than the track will be marked in the arena. 
+
+Qualification Rules
+1. A robot will be allowed a maximum of 3 restarts, failing which the team will 
+be disqualified.
+2. Before starting the round, participants can request for a 15 minute test run, 
+after which no other requests for test-run will be entertained.
+3. No requests for a second test-run will be entertained even if the first test-run 
+took less than 15 minutes.
+4. If the robot fails to follow the line/falls off the arena or requests a restart, the 
+robot has to start from its last fully passed checkpoint.
+5. A team can consist of a maximum of four students from the same institution.
+6. A single participant can be present in only one team.
+7. Each member of the team must bring their own college ID cards.
+8. Teams will require to register themselves in the registration counter before 
+they canparticipate in the event.
+9. Use of LEGO kits is strictly prohibited and will lead to disqualification.
+10. Any kind of damage to the arena or any action leading to the discoloration 
+of the arena will lead to immediate disqualification.
+
+Event Coordinator:
+1.Sourav chatterjee
+  +919674546960
+
+2.KRISHNAPADA SEM
+  +918420923747
+
+"</string>
+    <string name="technomania">"
+“I don’t let go of concepts ,I question them.Then they let go of me.” --Byron Katie
+TECHNOMANIA gives you the platform to showcase something new,challenging and curious.Present your ideas in front of others in the form of model and presentation.If you think you have that presenting skill of how technology can benefit mankind and nature,grab the chance,here it is.Igniting minds ignite the stage ,reveal your passion,show what you can do,how you can make this world better and bound everyone to say that “This is it..”
+
+Rules and Regulations:
+1.It comprises hardware model on science and technology and a power point presentation on it.
+2.The members of a single team should be from the same institute.More than one team from the same institute is allowed.
+3.Each team can have a maximum of 3 members.One of them will be the principal investigator and others co-investigator.
+4.Each team will have to mail the abstract of their model based on innovative theme in brief in Microsoft Word Document(.docx) format(title,aim and synopsis of maximum 150 words comprising supporting figures) by 20TH FEB,2015 to technomania2.15@gmail.com
+5.Teams will get a confirmation mail about their model selection by 20TH FEB,2015.
+6.All shortlisted teams for the final round will get a participation certificate.
+7.Each team must have a presentation about their entire project and their hardware may be the part of the entire project or a supporting hardware fulfilling the aim of the project at the time of the event.
+8.All the shortlisted teams will have to be present with their model at the time of event and for working models,teams have to bring their own extension power cord.Power supply will be provided by the institute.
+9.Marks will be provided on both the model and ppt.
+10.The decision of judges will be final.
+
+Registration:
+Students can contact the conveners
+"</string>
+    <string name="enovation">"
+Dare to explore the unexplored.
+
+
+“Innovation distinguishes between a leader and a follower.”-Steve Jobs
+
+Venture into a completely new world of animated technology blended perfectly with innovation, perception and technology. If young and budding entrepreneurs and inventors like you can find the most innovative solutions to the most common problems, then this is your chance to grab eyeballs.
+From technology to business each and every idea you have might just be a potential goldmine for this planet…we are just providing you the stage and a chance to e-nnovate!!!
+
+Rules and Regulations
+
+ 1. Students from same college can form a single team.
+ 2.   Each team can have 2- 3 members-one principal investigator and other two co-investigators.
+ 3.   The team has to present their proposal in the form of a project presentation .
+ 4.  The challenge is to make innovative proposals and ideas which are technologically advanced and have real life applications.
+ 5.   The proposal should be completed within 15 slides.
+ 6.  The team should have a leader/speaker who will present the proposal to our judges.
+ "C:/Users/MOHIT AGARWAL/Desktop/untoldback.gif"7.   The presentation should be completed within 10 minutes.
+ 8.  The slides must have a cover page and abstract (in not more than 150-200 words) consisting of project name, objectives and a brief summary.
+ 9.   Stress should be on technical content (discussing about the significances and advantages of your product and features that make it stand out in the market) and commercialization strategy.
+ 10.   The presentation should be submitted by 20th february to ennovation.techstorm@gmail.com
+ 11.  "C:/Users/MOHIT AGARWAL/Desktop/untoldback.gif" Team will receive confirmation email about their proposal selection.
+ 12.   Registration Fee is Rs. 100/ team (but you have to pay it only if you are shortlisted).
+ 13.   Each shortlisted team will have to carry their own laptops.
+ 14.  The decision of the judges will be final.
+
+Registration
+
+Students can contact the conveners
+Event Co-ordinators
+
+Roshni Dasgupta
+8017365649
+
+A techstorm production ©Techstorm Web Team.
+
+"</string>
+    <string name="khet">"
+ABOUT KHET:
+The Laser Game KHET 2.0: Mind blowing laser fun for players ages 9-99. Using simple rules that can be learned in minutes, players alternate turns moving Egyptian themed mirrored Pieces, after which they fire their REAL (eye-safe) laser with the goal of blasting their opponents PHARAOH to win the game! BASIC GEOMETRICAL CONCEPT IS THE KEY FACTOR IN THIS GAME. 
+
+KEY NAMES:
+•	PHARAOH(1): The Pharaoh(The King) is the most important piece for each side. If hit with a laser, it is destroyed and its owner loses the game.
+•	SCARAB(2): Scarabs consist primarily of dual-sided mirrors. They reflect a laser coming in from any direction, and thus cannot be eliminated from the board.
+•	ANUBIS(2): They have the advantage that, despite being unmirrored, they are not affected by a laser strike on the front; they must be hit on the sides to be eliminated.
+•	PYRAMID(7): Pyramids have a single diagonal mirror, and form the primary mechanism for directing the path of the laser. They are vulnerable to a hit from two of the four sides.
+•	SPHINX(1): Sphinxes hold the lasers. They can rotate in two directions only. A Sphinx is unaffected by laser fire, whether the opponent's or its own reflected back upon itself.
+
+
+BASIC GUIDELINES:
+•	Two players will play in one set at a time. (3 sets are available)
+•	In each turn a player will get a maximum of two minutes and for the next minute a negative point will be added. Maximum time limit is 3 minutes.
+•	If he/she does not make any move within the stipulated time, then and there he/she will be eliminated and opponent shall be declared as winner.
+•	A maximum of three warnings will be given for breaking any rule with a negative point.
+•	Negative points will be the measure for breaking tie-ups, if any.
+•	Mirrors of the pieces must not be touched. 
+
+
+RULES:
+•	PHARAOH: The Pharaoh is the most important piece for each side. If hit with a laser, it is destroyed and its owner loses the game. Similar to a king in chess, the Pharaoh pieces are comparatively weak, and so are often not moved unless under duress.
+•	SCARABS: Scarabs consist primarily of large, dual-sided mirrors. They reflect a laser coming in from any direction, and thus cannot be eliminated from the board. Also, unlike other pieces, Scarabs may move into an adjacent square even if it is already occupied, by switching places with the piece found there (whichever color it may be). Thus, they are the most powerful pieces on the board, but must be used with care, as a move that puts one side of the mirror in a favorable position may expose the player to attack using the opposite side of the same mirror.
+•	SPHINXES: In Khet 2.0, the Sphinxes hold the lasers. They may not move (each player's is located at their closest right-hand corner) but may be rotated in place so as to fire down the rank instead of the file. A Sphinx is unaffected by laser fire, whether the opponent's or its own reflected back upon itself.
+•	ANUBES: Anubis has the advantage that, despite still being unmirrored, they are not affected by a laser strike on the front; they must be hit on the sides or rear in order to be eliminated.
+•	PYRAMIDS: Pyramids have a single diagonal mirror, and form the primary mechanism for directing the path of the laser. They are vulnerable to a hit from two of the four sides, and must be defended lest the player lose their ability to build paths of any size.
+ 	LINK:
+GENERAL GUIDELINES:
+ 	Two players will play in one set at a time. (3 sets are available)
+ 	In each turn a player will get a maximum of two minutes and for the next minute a negative point will be added. Maximum time limit is 3 minutes.
+ 	If he/she does not make any move within the stipulated time, then and there he/she will be eliminated and opponent shall be declared as winner.
+ 	A maximum of three warnings will be given for breaking any rule with a negative point.
+ 	Negative points will be the measure for breaking tie-ups, if any.
+ 	Mirrors of the pieces must not be touched.
+
+
+ROUNDS:
+•	PRELIMS: With the CLASSIC model, the prelims will be held and based on prelims eight participants will be selected.
+•	SEMIS: In the Semis, the eight selected players will play and four winners will battle out for the final. IMHOTEP model will be used.
+•	FINAL: In the final, no time limit will be there and from them one will be declared winner. Model DYNASTY will be implemented.
+    
+    "</string>
+    <string name="arcania">"
+Arcania is back as promised with all its thrilling rounds.So all the avid quizzers out there let the clash of best brains begin.Be ready to experience the unexpected!!
+
+Arcania provides a new platform to showcase your quizzing skills and gives you a chance to discover a new arena of knowledge and wisdom altogether. Be prepared to witness the most mindblowing quiz ever.So “hold your breaths”.
+
+ Let all your intellect shine and let the rolling of your brain race with every passing minute!!!
+
+Happy Quizzing!
+Qualification Rules
+1.	Inter-college quiz with focus on every sphere of life.
+2.	Written prelims and then 8-round finals.
+3.	6 teams qualify for Finals.
+4.	Both members can be from different colleges but they must carry their college ID card to the venue.
+Registration
+Participants need to mail their name,college,department,year and contact number(s) at arcania.techstorm2.15@gmail.com
+Event Co-ordinators
+Vidisha
+8697322644
+
+Pritha Acharya
+7278273084
+
+
+"</string>
+    <string name="omega">"
+Mathematicserrific….                                                                            
+Judge yourself by logging into the deep well of mathematics and test your grey matter and mental ability through SUDOKU and many other mind boggling, brain storming puzzles. Omega-trix is a combination of such SUDOKU, magic squares and math puzzles. We have made this event as part of our fest. 
+The event has been divided into two parts namely- Preliminary round and Mains. Participants who get to qualify in the prelims can compete in the second round - mains. The finalists will face aptitude based questions which will test their logical reasoning, analytical skills and time management.
+The essence of mathematics is not to make simple things complicated, but to make complicated things simple.
+
+Event Rounds  
+*This event will be conducted in two rounds 
+•Round 1 - Prelims
+1. The duration will be 60 minutes.
+2. Number of question will be 40.
+list of shortlisted participants will be displayed before Mains
+•Round 2 - Mains 
+1. It will be audio-visual round 
+2. The duration will be 60 minutes. 
+
+Qualification Rules 
+1.	Only individuals can participate.
+2.	Every Participant must carry his/her College Identity Card during day of event.
+3.	Utilizing any kind of electronic aid will lead to disqualification.
+4.	Every participant must produce the given Confirmation Code during registration. Without proper Confirmation Code no participant can be registered. 
+Registration 
+1.	The external participants have to send the details (name, college name, and mobile number) to the email ID omegatrixtechstorm2k15@gmail.com
+2.	The participants will be given a confirmation code.
+3.	BPPIMT students need to submit their name to the volunteers.
+4.	Last date of registration: 24th February 2015, at 1pm
+5.	This event is FREE for participation. 
+Important Details 
+1.	Last date of Entry: 24th February, 2015 (before 1 pm)
+2.	Details to be sent to: omegatrixtechstorm2k15@gmail.com
+Contact person:
+MONISH SAHA-   7278091043 (Event co-ordinator)
+
+"</string>
+    <string name="untoldstory">"
+EVENT DESCRIPTION:
+Comprehensions are the perfect way to express the inner perception  , lifetime experience and the momentary mental stance .  Stories   , poems and essays are the best ways to express yourself   . We are providing an opportunity to show your instincts and share yourself. Now If you think that you have got this in you   , come and deliver your Untold Story.
+
+PHRASES :
+1.It was a wrong number that started it…….
+2.   The first day of school, a love note, and a recipe with a significant mistake.
+3.Back when the world was young, and the humans and the animal people could speak to each other...
+4. I am the shore and the ocean, awaiting myself on both sides.
+5.December 16, 2014, Peshawar\u003A  9 gunmen affiliated with the Tehrik­i­Taliban (TTP) conducted a terrorist attack on the Army Public School in the northwestern Pakistani city of Peshawar. The militants, all of whom were foreign nationals, included one Chechen, three Arabs and two Afghans. They entered the school and opened fire on school staff and children, killing 145 people, including 132 schoolchildren ranging between eight and eighteen years of age.
+The attack sparked widespread reactions worldwide. Even the terrorist organization
+Al Queda\u0027s spokesperson said that \u0022Our hearts are bursting with pain\u0022.
+
+About 3 weeks later, Paris \u003A A distinct cry rose in the air \u0020 \u0022Je suis Charlie\u0022.
+
+Event Rounds \u003A
+The event comprises of two rounds\u003A
+Round 1 - Prelims
+Round 2 - Finals
+
+Prelims \u003A
+•	Participants can write either Story, Essay or Poem using the wording / phrase.
+•	The word limit for the write up is 1000 words (maximum).
+•	Writings should be unique, novel and natural.
+•	The participants can use only one wording/phrase for developing their write-up. They also need to mention the wording/phrase in the beginning separately, which they are using for their story.
+•	A proper title has to be provided for the story.
+•	15 Entries out of all will be selected for the finals.
+•	No registration  fees  is required.
+
+
+
+Useful details \u003A
+
+•  The last date for sending the entries is 20th February,2015.
+•  The entries have to be sent on the following email id provided:  untoldstory.bppimt.ts2015\u0040gmail.com
+
+File specifications \u003A
+•  The participants have to send their story in a separate MS-Word file along with the following details: 
+1. Full Name
+2. Contact Number
+3. Email Id
+4. College Name
+5. Stream/Subject
+
+
+
+EVENT COORDINATOR \u003A
+Ankur Bhartiya
+For any queries you can contact on the given No.s  IDs:
+9038580871
+ankur.bhartiya08\u0040gmail.com
+https://www.facebook.com/ankur.bhartiya.71
+
+
+"</string>
+    <string name="passionwithreels">"
+Move our senses with your movies \u0021\u0021\u0021
+Films are a perfect portrayal of the ever changing life  rapid scientific  technological growth of mankind, and making a film is an Art\u0021\u0021\u0021 An art which finds the perfect action,  direction,  scenes,  script and much more.. \u0021\u0021\u0021  Now if you think that you and your team has it all what it takes to make a movie then step up and participate in this wonderful event. So come on guys and show us your               Passion With Films\u0021\u0021\u0021
+RULES:
+•	There is no specific theme for short film.
+•	Participants must be from same college  have to submit a copy their college id cards.
+•	The maximum number of people  can be 8(including the cast).
+•	The runtime for films should not exceed 15 minutes.
+•	Films must be based on ideas that are unique, novel  natural.
+•	Each team should have an appropriate title for the movie  a team name.
+•	Each film should begin with a disclaimer, which should also include the event name, the team name, college name and the title of the movie.
+•	Please avoid obscenity, pornography, excessive violence. In such case, the submission will be rejected.
+•	Submission of video will be done through CD,DVD or Pendrive. The movie should be playable on VLC  KM Player.
+•   The registration fee will be rs.100 and it has to submitted at the time of submission of their movie.
+•	The participants can submit their movie to the college or contact Arpan Ganguly(8906533961) for other submission options.
+•	The last date of submission is 25th February.
+
+JUDGING CRITERIA:
+•	Originality of idea/ Title of the movie
+•	Cinematography
+•	Video  sound synchrony
+•	Editing
+•	Script
+•	Message Quality
+
+Event  Co-ordinator:
+Arpan ganguly
+For Any Queries Contact:
+8906533961 or 7278527998
+ E-mail:
+Arpan.ganguly754\u0040gmail.com
+or
+https://www.facebook.com/passionwithreels.techstorm2.15
+
+"</string>
+    <string name="mm">"
+Event Description:
+Photography is an art of observation.It has little to do with the things you see and everything to do with the way you see them. It is the only language that can be understood in the world and that is all about “35mm LIVE”….
+
+Objective:
+Look and think before opening the shutter. The heart and mind are the true lens of the camera. Creativity is the process of bringing something new to being. Innovation is the production or implementation of an idea.Techstorm 2.15 presents ‘35mm Live’ where your creativity will be put on test.
+Rules and Regulations:
+1.	Only individuals can participate. No group or teams are allowed.
+2.	We have FOUR basic genres for the theme: "Holiday lights and Celebration "
+3.	The participant can submit photographs for any/all of the four genres.
+a. Conceptual or Macro
+b. Portraits and Expression 
+c. Nature or Landscape
+d. Street Photography or action
+4.	All individuals are allowed to submit a maximum of 6 photos with a maximum of two per genres.
+5.	The photographs should be original and unedited. Editing can be done only to improve the contrast, color, brightness to bring the originality of the situation. No addition or removal of objects or any other editing procedures are allowed. Photoshop editing is strictly forbidden.
+6.	Participants will be disqualified if the above conditions are not satisfied.
+7.	Watermarks and names on the photos are not allowed.
+8.	The participants must abide by the specifications given below otherwise that would lead to negative marking.
+9.	The photos must be ATLEAST 5 Mega-Pixel and MAXIMUM 15 MB in size.
+10.	The format must be simple JPEG or JPG file. No other file formats will be accepted.
+11.	During submission, the participants must follow these simple steps:
+a. The file name of the photos should be name_collegename_genre_serial no. (For e.g. if the name is Amit and the college is BPPIMT and the genre is MACRO, the respective file name should be Amit_BPPIMT_Macro_1)
+b. In a separate notepad file, he/she must provide the following for every photo
+a. Title to the photograph
+b. File name
+c. Location of shoot (LOCATION OF SHOOT MUST BE WITHIN WEST BENGAL)
+d. Camera make  model, Lens, Aperture, Shutter speed i.e. Image metadata has to be mentioned.
+12.	In the same notepad, Personal details should include: name, email-id and Mobile number to contact, in case of you are a winner.
+13.	Participants are required to provide a scanned picture of the college Identity Card through the mail along with their submission in the same mail.
+14.	Submission has to be mailed to the email address 35mmlive2k15@gmail.com latest by 23rd February, 2015 within 5pm. Entries after this date will not be accepted. 
+15.	The subject of the mail should be 35mm LIVE else the mails will not be accepted.
+Judging Criteria
+1.	Photographs must be the authentic and exclusive work of the author.
+2.	All the photos will be copyrighted and the participant will be the respectful and soulful owner of the photographs.
+3.	Photos will be judged on the following:
+a. Composition (10 points)
+b. Creativity and Title (8+2 points)
+c. Technical quality (10 points)	
+d. Suitability (10 points)
+e. Impact (10 points)
+4.	The Top 20 photos will be put up on display (5 from each genre)
+5.	THE DECISION OF THE JURY IS FINAL. No hooliganism/vandalism will be allowed or entertained regarding the jury's decision.
+6.	The winners in every genre will be selected by our esteemed panel of judges. Only the winning participants will be awarded. The top photos will be exhibited in our college campus. 
+Registration
+1.	The registration fee is Rs. 150 per participant, who will be allowed to submit 4 photographs. However, per additional 2 photographs submitted an excess charge of Rs. 25 will be levied. However for BPPIMT students, registration fee is Rs. 75 per participant and maximum of 6 photos will be accepted.
+2.	 Every participant must produce his/her college Identity Card during registration or whenever asked for.
+3.	All participants must register their name on or before 23rd February, 2015 otherwise the entries will not be entertained.
+4.	The registration will take place in the alumni room.
+Event Co-ordinator
+Amit Kumar Singh
+For any queries you can contact on the given No.s  IDs:
+8981431176
+amitkumar.bgp@gmail.com
+https://www.facebook.com/amit2905
+
+"</string>
+    <string name="spotlight">"
+Techstorm 2.15 presents Spotlight- a platform for students to showcase their gift of the gab. From critical thinking to claiming consensus amidst commotion, all will be tested in this fun inter college event. We invite all avid debaters, speakers and orators to join us in this gladiatorial combat of intellect. If you can listen critically and think on your feet, If you have the confidence and poise to express your thoughts fluently,  step up to the podium and get ready for a rewarding experience as you shine in the Spotlight of Techstorm 2.15.
+Registration lines are open .We look forward to your wholehearted support and participation.
+Rules and Regulations
+Prelims Round : 
+(a) This is a debate round (English).
+(b) All the participants will be divided into groups, each group consisting of 4 members.
+(e) Points will be given on the basis of individual performance.
+(f) Topics for debate will be selected by a lottery system by the judges. 
+(g) One group will present their views FOR the topic and the other will be saying AGAINST the topic.
+(h)) There will be a coin toss at the beginning of each round of debate wherein the winner gets to choose which group would speak for or against the topic.
+(i) Each groups will get be alloted 5 minutes to prepare themselves before the starting of the debate.
+(j) Each participant will get 2-3 minutes to put forth his/her opinion.
+(k) Any form of abusive language will lead to disqualification of the team.
+(l) The decision of the judges will be final.
+(m) The organising team reserves the right to modify any of the rules
+
+
+Hold your horses!More rounds coming up!Stay tuned to this page for more.
+
+Registraion-Register as a group or an individual.Individual participants will be grouped together.Lines are open.Drop in your mail with your name,phone number and email id at spotlight.techstorm@gmail.com.  Like our facebook page https://www.facebook.com/spotlight.techstorm2.15 to know more and keep updated.Registrations will be entertained on a first come-first serve basis only.So hurry!
+
+Event Coordinators:
+AKASH GHOSH:9038749326
+SREEJA SAHU:9874991649
+
+"</string>
+    <string name="art">"
+DESCRIPTION:
+Art is not what you see but what you make others see. If you think you are creative and have been just waiting for a chance to unleash your skill, here is the platform. In this TECHSTORM 2.15 “Objet d’ Art “gives you the platform to showcase your creativity in front of others in the form of a model. The challenge is to bring up creative, sustainable and innovative models based on the highlighted themes.
+The art represent an outlet of expression.That is all about "Objet d’ Art"...
+
+OBJECTIVE:
+Creativity is seeing what everyone else has seen , and thinking what no one else has thought.Techstorm2.15 provides a platform for innovations, you will be rewarded, if you have the element, an ability to view the world from a wider perspective and envisage that which never was...
+
+QUALIFICATION RULES
+1.	Each team can contain a maximum of three members.
+2.	Each team can submit 3 items.
+3.	If several items comprise a ‘Set’, then the Set will be considered as one item. The judges will have the final determination on whether items make up a ‘Set’. 
+4.	There is no restriction on the size of the handicrafts but very large and unwieldy entries will not be accepted.
+5.	All shortlisted teams will be required to be present with their model on the day of event.
+
+Format for Abstract
+• Team Name: (Specify your name)
+• Institution Name: (Specify your institution name) 
+• Team Leader’s Name: (Specify your team leader’s name) 
+• E-mail id: (Specify team leader’s e-mail id) 
+• Contact no.: (Specify team leader’s contact no.) 
+• Details of team members: (Specify the names and contact details of the team members) 
+• Theme Specifications:
+(Tick any one)
+• Transforming pieces.
+• Utilization of waste energy 
+• Go-green(eco-friendly)
+• Lifestyle 
+• Title of model 
+•	A short detail about your model.
+• Save the abstract with the filename (your team name).doc/.docx
+
+Evaluation
+1.	Models must be the authentic and exclusive work of the participants.
+2.	Models will be judged on the following:
+a)	Title (5 points)
+b)	Creativity (15 points)
+c)	Technical quality (10 points)
+d)	Suitability (10 points)
+e)	Impact (10 points)
+
+3.The Top 10 models will be selected for the final round and they will be put up on display. 
+4. THE DECISION OF THE JURY IS FINAL. No hooliganism/vandalism will be allowed or entertained regarding the jury's decision.
+5. All shortlisted teams for the final round will get a participation certificate.
+6. The winners will be selected by our esteemed panel of judges. Only the winning participants will be awarded.
+
+Registration
+1.	Registration is free i.e. Entry is free of charge.
+2.	Each team will have to mail their abstract to the Event coordinator about their model according to our attached format in Microsoft Word Document (.docx) format before 23/2/2015.
+3.	Every participant must produce his/her college Identity Card during registration or whenever asked for.
+
+Event Co-ordinator:
+Anshu Raja
+8276840120
+Objetdart2.15@gmail.com
+"</string>
+    <string name="programming">"
+Like coding?
+Are you a:/programmer? 
+WE HAVE EXACTLY WHAT YOU WANT!!
+Techstorm 2.15 brings to you the penultimate C coding, inter-college competition - FantaC.
+EVENT Details :
+
+ROUND 1:
+Prelims :- 
+MCQ round.
+Using pen and paper.
+Duration : 1 hour, -- questions.
+Date :27th Feb,2015(For BPPIMT STUDENTS 24TH FEB)
+
+ROUND 2: 
+Bug-A-Thon :- 
+A piece of code will be provided. You have to debug it to get the correct output. 
+Duration : 1 hour.
+Date :27th FEB,2015(FOR ALL)
+
+ROUND 3:
+Code Sprint :- 
+A problem statement will be given. You have solve it.
+Duration : 2 hours.
+Date:28th FEB,2015
+
+RULES AND REGULATIONS:
+1. Each team will consist of  minimum one and maximum of two contestants.
+2.Group members can be from different years and different streams.
+3.For students for colleges other than B.P.Poddar Institute Of Management and Technology, registration will be done on first come, first serve basis. Once the required number of groups are filled, we will stop the entries.
+4.Using cellphones or any other electronic devices during the competition at any stage will lead to disqualification.
+
+Ready to help : (Name  and phone number of co-ordinators)
+
+"</string>
+    <string name="rocombat">"
+Introduction(optional):
+[It is the ultimate robo-war. The main focus is to destroy the opponent’s machine and gather as many points as you can but at the same time protect your own bot for further rounds.]
+Event Description:
+[Two bots will start from the two opposite sides of the arena. There will be inclined planes \u0026 the combat zone. Points will be provided in both the zones. Arena will be different for prelims and later stages. In prelims it will be a cuboidal arena with two inclined planes at sides and flap gates through which bots will enter. Two cuboidal ditches will be present inside the arena at opposite edges and two rectangular ditches on the center of the boundary of the longer sides.The arena for the prelims and the other rounds will almost be same. The only difference being that from the semifinal it will contain a strip made slightly slippery using oil or other lubricants.
+Arena:    Sketch up     
+
+Objective:
+The bots need to enter the arena after climbing the inclined plane through the flap gates. 150 points will be given for this. 
+If a bot is put in the ditch inside the arena by the opponent it will give the opponent full 300 points. If the bot is thrown out of the arena it will give the opponent full 100 points . And for the ditch at the boundary, it will give 200 points.
+Any team can ask for time out due to technical faults. One time out will be allotted for 3 minutes. After that 50 points will be deducted for each time out.
+No hand touches are allowed. 50 points deducted for hand touches. In case the bot gets turned over volunteers will take actions accordingly.
+Time limit is 10 minute for each match/game.
+
+Bot Specification:
+The recommended weight for the bots is 15 kg however a variation of +-5 kg may be allowed.
+Dimensions should be less than (45x45x45) cm3 including all gadgets.
+The bots wheel should fit in a 40x40 cm2 platform at the time of start.
+No readymade Lego kits will be allowed. 
+A 230 volts AC supply will be provided to each team.
+The wires should be sufficiently long and should not slack or touch the arena. If it does organizers will not be responsible for any damage to the wires.
+On board a maximum of 15 volts dc motors can be used.
+A.C motors in weapon system or wheels is strictly prohibited.Use of cutting and hammering instruments is also not allowed. No fire throwing equipment should be used.
+The surface of the arena may get slippery at later stages. Bots should bear that.
+
+
+Rounds #:
+Please note for the prelims the tournament will be played on knockout basis (losing team gets eliminated) till 4 teams are selected. However the semifinals will be league based (each team plays the rest) and the two teams with highest points will be qualified for final. Only one final match will take place.
+
+
+
+General Rules:
+Each team can have a maximum of 5 members. No same member can be part of any two teams.
+The members of a team can be from different colleges/university.
+The team leader needs to bring his/her college ID cards.
+Any member of Techstorm 2.15 especially those who are the part of Ro-vers cannot take part in ro-combat.
+Each team can present only one bot.
+Prelims will be held on the first day of the Tech fest from 10 a.m. to 1 p.m. and from 2p.m. to 5 p.m. only. Selected teams need to come on the next day for further rounds about which they would be informed.
+In prelims teams will face each other on first come first serve basis. However it will be tried that no two teams from same college are put against each other in the prelims. Also if possible bots with resembling features (not too different in size or weight) will face each other in the prelims.However the ultimate match fixture would be decided by the team manager. Any kind of misbehavior or misconduct may lead to disqualification of the bot immediately.The entire event will be conducted in a fair and unbiased manner. Team Ro combat welcomes all the participants.
+Whatever be the case the decision of the coordinators will be the final one.
+
+
+Event Co-ordinators:
+Abhisek data:-9434314908
+Aritra kesh:-9038659957
+Mayank prasoon:-9038866073
+
+"</string>
+    <string name="nfsdetails">"
+Event Rounds:
+The tournament will have 4 phases:
+    Prelims
+    Quarters
+    Semis
+    Finals
+Prelims:
+Track: Omega (6.5 miles) (3 laps)
+Cars allowed:
+
+    Toyota Supra
+    Mazda RX-8
+    Audi TT 3.2quattro
+    Clio V6
+    Ford Mustang GT
+
+Quarters:
+Track: Gray Point (7.1 miles) (3 laps)
+Cars allowed:
+    Mazda RX-7
+    Mitsubishi Lancer Evolution VIII
+    Lotus Elise
+    Porsche Cayman S
+    Vauxhall Monaro VXR
+
+Semis:
+Track: Switchback (8.9 miles) (4 laps)
+Cars allowed:
+    Corvette C6
+    Aston Martin DB9
+    Porsche 911 Turbo S
+    Dodge Viper SRT10
+    Lamborghini Gallardo
+
+Finals:
+    Track Type: Circuit
+    Track Name: Club House (10.4miles)
+    Laps: 4
+    Track Type: Drag
+    Track Name: Broadwalk  Bayshore (1.3 miles)
+    Track Type: Sprint
+    Track Name: NFS World Loop (16.9 miles)
+
+Cars: Any cars as per participant's choice.
+
+Event specifications
+
+The event will be organized in the college premises, C-Block, Lab-9.
+
+Qualification Rules
+
+    Prelims, Quarters  Semis matches will use cars from stock.
+    In Prelims:
+        Nitro: OFF
+        Performance: ON
+        Collision detection: ON
+    In Quarters, Semi  Final:
+
+        Nitro: ON
+        Performance: ON
+        Collision detection: ON
+    Finals will have 3 events:
+
+        Sprint
+        Circuit
+        Drag
+    Final match participants may use the career mode cars.
+    Use of cheat codes would lead to disqualification.
+
+Co-Ordinators Name:
+   Rajdip Maji - 9732480901
+   Diwakar Mani - 8820895085
+
+Event mail-id : bppimtnfs2.15@gmail.com
+
+"</string>
+    <string name="fifadetails">"
+IF U BELIEVE SUNSHINE IS HAPPINESS U HAVE NEVER PLAYED FOOTBALL IN RAIN
+"</string>
+
+</resources>

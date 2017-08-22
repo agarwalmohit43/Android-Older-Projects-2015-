@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <com.google.android.maps.MapView
+        android:id="@+id/mvmain"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="AIzaSyBJgAJc1fr672Qprsf5iggTt5RPw1UsScw" />
+
+</RelativeLayout>

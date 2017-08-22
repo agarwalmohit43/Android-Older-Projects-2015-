@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">flexiblefragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titels">
+        <item>ACTIVITIES</item>
+        <item>SETVICES</item>
+        <item>CONTENT PROVIDERS</item>
+        <item>INTENT AND INTENTS FILTER</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+
+</resources>

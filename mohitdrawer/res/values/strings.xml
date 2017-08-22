@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Closes Navigation Drawer</string>
+<string-array name="act">
+    <item >MOHIT</item>
+    <item >KUMAR</item>
+    <item >AGARWAL</item>
+</string-array>
+    <string-array name="planets">
+        <item>MERCURY</item>
+        <item>VENUS</item>
+        <item>EARTH</item>
+        <item>MARS</item>
+        <item>JUPITER</item>
+        <item>SATURN</item>
+        <item>URANUS</item>
+        <item>NEPTUNE</item>
+        <item>PLUTO</item>
+    </string-array>
+    <string-array name="stars">
+        <item>MERCURY</item>
+        <item>VENUS</item>
+        <item>EARTH</item>
+        <item>MARS</item>
+        <item>JUPITER</item>
+        <item>SATURN</item>
+        <item>URANUS</item>
+        <item>NEPTUNE</item>
+        <item>PLUTO</item>
+    </string-array>
+    <string-array name="socila">
+        <item>FACEBOOK</item>
+        <item>GOOGLE+</item>
+        <item>WHATSAPP</item>
+        <item>YOUTUBE</item>
+    </string-array>
+
+</resources>

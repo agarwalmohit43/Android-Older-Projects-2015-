@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+     >
+ <ImageView
+        android:id="@+id/cusssiv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/m" />
+
+    <Button
+        android:id="@+id/cusswhats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cusscall"
+        android:layout_alignBottom="@+id/cusscall"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="92dp"
+        android:background="@drawable/ic_wp" />
+
+    <Button
+        android:id="@+id/cusscall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/cusssiv"
+        android:layout_marginBottom="27dp"
+        android:layout_marginLeft="19dp"
+        android:layout_toRightOf="@+id/cusswhats"
+        android:background="@drawable/call" />
+
+</RelativeLayout>

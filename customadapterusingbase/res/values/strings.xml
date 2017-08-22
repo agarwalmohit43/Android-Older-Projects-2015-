@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">customadapterusingbase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ <string-array name="days">
+        <item>SUNDAY</item>
+        <item>MONDAY</item>
+        <item>TUEDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        </string-array>
+          <string-array name="no">
+        <item>DAY 1</item>
+        <item>DAY 2</item>
+        <item>DAY 3</item>
+        <item>DAY 4</item>
+        <item>DAY 5</item>
+        <item>DAY 6</item>
+        <item>DAY 7</item></string-array>
+</resources>

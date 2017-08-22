@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/robackks" >
+
+    <Spinner
+        android:id="@+id/robotmain"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:popupBackground="@android:color/transparent" />
+
+    <Spinner
+        android:id="@+id/roconstru"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/robotmain" 
+        android:visibility="gone"
+        android:popupBackground="@android:color/transparent"/>
+
+</RelativeLayout>

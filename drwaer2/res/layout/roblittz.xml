@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/roblitzmain" >
+    <Button
+        android:id="@+id/roblitzcord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:background="@android:color/transparent"
+        android:text="COORDINATOR" />
+
+    <Button
+        android:id="@+id/roblitzdetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="137dp"
+        android:layout_toLeftOf="@+id/roblitzcord"
+        android:background="@android:color/transparent"
+        android:text="DETAILS" />
+
+    <Button
+        android:id="@+id/roblitzarena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/roblitzdetails"
+        android:layout_alignBottom="@+id/roblitzdetails"
+        android:layout_toRightOf="@+id/roblitzcord"
+        android:background="@android:color/transparent"
+        android:text="ARENA" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="&quot;SPEED UNLEASHED...&quot;"
+        android:textSize="40sp" />
+
+</RelativeLayout>

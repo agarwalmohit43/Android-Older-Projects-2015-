@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <RelativeLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/nfsiv"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/nfs" />
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginTop="14dp"
+                        android:text="&quot;BUCKLE UP, HIT THE GAS. EARN THE RIGHT TO BE THE MOST WANTED&quot;"
+                        android:textSize="25sp" />
+
+                    <Button
+                        android:id="@+id/nfscord"
+                        style="@drawable/dr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="17dp"
+                        android:background="@android:color/transparent"
+                        android:text="COORDINATOR" />
+
+                    <Button
+                        android:id="@+id/nfsvideo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/textView1"
+                        android:layout_toRightOf="@+id/nfscord"
+                        android:background="@android:color/transparent"
+                        android:text="VIDEO" />
+
+                    <Button
+                        android:id="@+id/nfsdetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBaseline="@+id/nfsvideo"
+                        android:layout_alignBottom="@+id/nfsvideo"
+                        android:layout_toLeftOf="@+id/nfscord"
+                        android:background="@android:color/transparent"
+                        android:text="DETAILS" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/fiafiv"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/fifabacksss" />
+
+                    <Button
+                        android:id="@+id/fifacord"
+                        style="@drawable/dr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="16dp"
+                        android:background="@android:color/transparent"
+                        android:text="COORDINATOR"
+                        android:textColor="#f0faf7" />
+
+                    <Button
+                        android:id="@+id/fifavideo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/textView2"
+                        android:layout_toRightOf="@+id/fifacord"
+                        android:background="@android:color/transparent"
+                        android:text="VIDEO" />
+
+                    <Button
+                        android:id="@+id/fifdetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBaseline="@+id/fifavideo"
+                        android:layout_alignBottom="@+id/fifavideo"
+                        android:layout_toLeftOf="@+id/fifacord"
+                        android:background="@android:color/transparent"
+                        android:text="DETAILS" />
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:text="&quot;Play The Legend Be The Immortal&quot;"
+                        android:textColor="#5de5b7"
+                        android:textSize="30sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/fiafiv3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/khetback" />
+
+                    <Button
+                        android:id="@+id/fifacord3"
+                        style="@drawable/dr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="16dp"
+                        android:background="@android:color/transparent"
+                        android:text="COORDINATOR" />
+
+                    <TextView
+                        android:id="@+id/textView23"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/fifavideo3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignTop="@+id/fifdetails3"
+                        android:layout_toRightOf="@+id/fifacord3"
+                        android:background="@android:color/transparent"
+                        android:text="VIDEO" />
+
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBaseline="@+id/textView23"
+                        android:layout_alignBottom="@+id/textView23"
+                        android:layout_alignParentLeft="true"
+                        android:text="The Laser Game KHET 2.0"
+                        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+                    <Button
+                        android:id="@+id/fifdetails3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/textView23"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginTop="24dp"
+                        android:layout_toRightOf="@+id/textView23"
+                        android:background="@android:color/transparent"
+                        android:text="DETAILS" />
+
+                </RelativeLayout>
+
+            </FrameLayout>
+
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>
